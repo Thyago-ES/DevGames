@@ -1,7 +1,7 @@
 import star from "../../../assets/icons/star.png";
 export function Stars() {
 	return (
-		<div>
+		<div className="stars">
 			<img src={star} />
 			<img src={star} />
 			<img src={star} />
