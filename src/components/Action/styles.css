@@ -1,0 +1,25 @@
+.action {
+	display: flex;
+	height: calc(100vh - 100px);
+	align-items: center;
+	width: 100%;
+}
+
+.action-container {
+	display: flex;
+	flex-direction: column;
+	width: 50%;
+	gap: 4rem;
+}
+
+.action-content {
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+}
+
+.action-img {
+	width: 50%;
+	background-color: var(--bg-color-01);
+	border-radius: 20px;
+}
