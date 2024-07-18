@@ -1,3 +1,4 @@
+import "./styles.css";
 import cardsIcon from "../../assets/icons/cards-icon.png";
 import coinIcon from "../../assets/icons/coin-icon.png";
 import purseIcon from "../../assets/icons/purse-icon.png";
@@ -5,7 +6,7 @@ import { FeatureItem } from "./FeatureItem";
 
 export function Features() {
 	return (
-		<section>
+		<section className="features">
 			<FeatureItem
 				item={{
 					icon: cardsIcon,
