@@ -1,0 +1,6 @@
+.partners {
+	width: 100%;
+	padding: 3.5rem;
+	border-top: var(--border);
+	border-bottom: var(--border);
+}
