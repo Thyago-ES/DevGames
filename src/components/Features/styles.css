@@ -1,0 +1,7 @@
+.features {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	gap: 3rem;
+	padding: 3rem 4rem;
+}
