@@ -1,9 +1,12 @@
+import "./styles.css";
 import productView from "../../assets/images/product-img.png";
 
 export function ProductView() {
 	return (
-		<section>
-			<img src={productView} alt="Produto" />
+		<section className="product-view">
+			<figure className="product-img">
+				<img src={productView} alt="Produto" />
+			</figure>
 		</section>
 	);
 }
