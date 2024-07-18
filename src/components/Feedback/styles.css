@@ -1,0 +1,44 @@
+.feedback {
+	width: 100%;
+}
+
+.feedback-content {
+	width: 80%;
+	margin: 0 auto;
+	background-color: var(--cold-color);
+	display: flex;
+	flex-direction: column;
+	justify-content: left;
+	border-radius: 20px;
+	height: 28rem;
+	padding: 5rem 10rem;
+}
+
+.feedback p {
+	font-size: 1.5rem;
+	font-weight: 600;
+	line-height: 40px;
+	color: #2b2b2b;
+	flex: 1;
+}
+
+.user-feedback {
+	display: flex;
+	align-items: center;
+	gap: 1rem;
+}
+
+.user-details {
+	display: flex;
+	flex-direction: column;
+	gap: 0.2rem;
+}
+
+.user-details span {
+	color: #2b2b2b;
+	opacity: 0.6;
+}
+
+.stars {
+	display: flex;
+}
