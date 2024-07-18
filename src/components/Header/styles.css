@@ -1,0 +1,12 @@
+.header {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1.5rem 4rem;
+}
+
+.header .header-bts {
+	display: flex;
+	gap: 0.8rem;
+}
