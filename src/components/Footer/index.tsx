@@ -1,22 +1,24 @@
+import "./styles.css";
+
 export function Footer() {
 	return (
-		<footer>
-			<div>
-				<span>DevGames</span>
-				<div>
+		<footer className="footer">
+			<section className="footer-content">
+				<span className="logo">DevGames</span>
+				<div className="links">
 					<a href="#">&copy; DevGames 2024</a>
 					<a href="#">Privacy policy</a>
 					<a href="#">Cookies policy</a>
 					<a href="#">Terms of use</a>
 				</div>
-			</div>
-			<div>
+			</section>
+			<section className="footer-email">
 				<span>Updates right to your inbox</span>
-				<div>
+				<div className="footer-insert">
 					<input type="text" placeholder="Email Address" />
-					<button>Send</button>
+					<button className="btn cold-btn">Send</button>
 				</div>
-			</div>
+			</section>
 		</footer>
 	);
 }
