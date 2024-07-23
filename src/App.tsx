@@ -1,4 +1,4 @@
-import { Action } from "./components/Action";
+import { Support } from "./components/Support";
 import { Features } from "./components/Features";
 import { Feedback } from "./components/Feedback";
 import { Footer } from "./components/Footer";
@@ -19,7 +19,7 @@ function App() {
 				<ProductView /> {/* Com essa */}
 				<Features />
 				<Feedback />
-				<Action />
+				<Support />
 			</PageContainer>
 
 			<Footer />
