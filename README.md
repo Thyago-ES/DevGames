@@ -30,9 +30,6 @@
 
 <h2>Autor</h2>
 <h3>Thyago Rafael de Carvalho</h3>
-<p>Linkedin:</p>
-<a href="https://www.linkedin.com/in/thyago-rafael-287520278">https://www.linkedin.com/in/thyago-rafael-287520278</a>
-<p>Instagram:</p>
-<a href="https://www.instagram.com/thyago.rc">https://www.instagram.com/thyago.rc</a>
-<p>Deploy do site:</p>
-<a href="https://dev-games-alpha.vercel.app">https://dev-games-alpha.vercel.app</a>
+<p>Linkedin: <a href="https://www.linkedin.com/in/thyago-rafael-287520278">https://www.linkedin.com/in/thyago-rafael-287520278</a></p>
+<p>Instagram: <a href="https://www.instagram.com/thyago.rc">https://www.instagram.com/thyago.rc</a></p>
+<p>Deploy do site: <a href="https://dev-games-alpha.vercel.app">https://dev-games-alpha.vercel.app</a></p>
