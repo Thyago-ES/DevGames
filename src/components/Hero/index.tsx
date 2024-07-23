@@ -8,7 +8,7 @@ export function Hero() {
 				<section className="hero-content">
 					<h1 className="title">Incredible Games on Demand</h1>
 					<p className="subtitle">
-						This is a simple Landing Page developed with React and TypeScript.
+						The gaming platform that will revolutionize the market.
 					</p>
 				</section>
 				<button className="btn hot-btn">Get started</button>

@@ -7,10 +7,10 @@ export function Feedback() {
 		<section className="feedback">
 			<section className="feedback-content">
 				<p>
-					“Wallet is a great product! All of my most important information is
-					there - credit cards, transit cards, boarding passes, tickets, and
-					more. And I don't need to worry because it's all in one place!
-					thanks!”
+					“DevGames exceeded all my expectations as an on-demand gaming
+					platform. It is a complete, high-quality solution for those looking
+					for an accessible, varied and high-performance gaming experience. I
+					highly recommend it to any game lover!”
 				</p>
 				<div className="user-feedback">
 					<figure>

@@ -65,3 +65,31 @@
 	opacity: 0.4;
 	line-height: 32px;
 }
+
+@media screen and (max-width: 768px) {
+	.footer {
+		flex-direction: column;
+		padding: 1.5rem 1rem;
+		align-items: start;
+		gap: 2rem;
+		margin-top: 3rem;
+	}
+
+	.footer-content .links {
+		flex-direction: column-reverse;
+	}
+
+	.footer-email {
+		width: 100%;
+	}
+
+	.footer-insert {
+		flex-direction: column;
+		width: 100%;
+	}
+
+	.footer-insert input,
+	.footer-insert .btn {
+		width: 100%;
+	}
+}

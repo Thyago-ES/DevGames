@@ -1,6 +1,24 @@
 .partners {
 	width: 100%;
-	padding: 3.5rem;
+	padding: 3.5rem 2rem;
 	border-top: var(--border);
 	border-bottom: var(--border);
+}
+
+.partners .mobile {
+	display: none;
+}
+
+@media screen and (max-width: 768px) {
+	.partners {
+		padding: 3rem 1rem;
+	}
+
+	.partners .pc {
+		display: none;
+	}
+
+	.partners .mobile {
+		display: block;
+	}
 }

@@ -1,5 +1,5 @@
 import "./styles.css";
-import productView from "../../assets/images/product-img.png";
+import productView from "../../assets/images/product-view.png";
 
 export function ProductView() {
 	return (

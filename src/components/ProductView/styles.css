@@ -1,9 +1,16 @@
 .product-view {
 	width: 100%;
-	padding: 5rem;
+	padding: 5rem 2rem;
 }
 
 .product-img {
 	background-color: var(--bg-color-02);
 	border-radius: 20px;
+	display: flex;
+}
+
+@media screen and (max-width: 768px) {
+	.product-view {
+		padding: 0;
+	}
 }

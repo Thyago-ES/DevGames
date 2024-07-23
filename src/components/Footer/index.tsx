@@ -13,7 +13,7 @@ export function Footer() {
 				</div>
 			</section>
 			<section className="footer-email">
-				<span>Updates right to your inbox</span>
+				<span>Enter the closed beta</span>
 				<div className="footer-insert">
 					<input type="text" placeholder="Email Address" />
 					<button className="btn cold-btn">Send</button>
